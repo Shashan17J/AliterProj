@@ -12,6 +12,8 @@ src folder contains FRONT-END.
 
 server folder contains BACK-END.
 
+Note: You have to install node_modules in both side - inside server folder for [Backend] and inside AliterAssignment folder for [Frontend] 
+
 
 
 
